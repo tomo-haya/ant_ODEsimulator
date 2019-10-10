@@ -1,6 +1,5 @@
 %Program to make Figure5, Figure6, Figure7
 
-%% ƒtƒHƒ“ƒg
 reset(groot);
 set(groot,'defaultAxesFontSize',12);
 set(groot,'defaultAxesFontWeight','demi'); % normal/demi/bold

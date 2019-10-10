@@ -89,11 +89,4 @@ nestworker_init = 5;%3;
 global ene_init;
 ene_init=(intra_init + forager_init + midworker_init + nestworker_init) * n_max;
 
-
-
-
-
-
-
-
 end
